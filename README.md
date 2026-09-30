@@ -5,7 +5,7 @@ Validate tax IDs — VAT, EIN, GSTIN, ABN and more — against official governme
 [lookuptax.com](https://lookuptax.com)
 
 ```bash
-go get github.com/lookuptax/lookuptax-go
+go get github.com/lookuptax/lookuptax-sdk-go
 ```
 
 Go 1.21+. No third-party dependencies.
